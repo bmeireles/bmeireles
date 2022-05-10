@@ -1,7 +1,9 @@
-### Hi, I'm Ludmila 👋 Welcome to my GitHub
+# Hi, I'm Ludmila 👋 Welcome to my GitHub
 
+## A little bit about me :raising_hand:
+I have just graduated on Information Systems, and worked as a Mobile Application Developer intern at <a href="https://www.infr4.com.br/"><b>Infr4 Tecnologia</b></a>. This experience motivated me to become a Qt Specialist, and I am currently developing my skills in QML and C++. I am also participating on an amazing mentorship by <a href="https://github.com/marcodotcastro"><b>Marco Castro</b></a> where I am learning all about career growth, management and soft skills for developers.
 
- <img align="right" src="https://github.com/bmeireles/bmeireles/blob/master/girl_coding2.gif?raw=true" width="70%" height="400px" />
+ <img align="right" alt="GIF" src="https://github.com/bmeireles/bmeireles/blob/main/girl_coding2.gif?raw=true" width="70%" height="400px" />
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
@@ -14,17 +16,9 @@
         <a href="https://stackshare.io/cplusplus" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
   <a href="https://stackshare.io/inkscape" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="40" height="40" /></a>
     </p>
-<!--
-**bmeireles/bmeireles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+<h3>Thanks for visiting!</h3>
+</div>

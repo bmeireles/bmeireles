@@ -2,6 +2,7 @@
 
 
  <img align="right" alt="GIF" src="https://github.com/bmeireles/bmeireles/blob/master/girl_coding2.gif?raw=true" width="70%" height="400px" />
+ <img align="right" alt="GIF" src="https://github.com/bmeireles/bmeireles/blob/master/girl_coding.gif?raw=true" width="70%" height="400px" />
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">

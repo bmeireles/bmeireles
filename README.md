@@ -1,7 +1,11 @@
 # Hi, I'm Ludmila 👋 Welcome to my GitHub
 
 ## A little bit about me :raising_hand:
-I have just graduated on Information Systems, and worked as a Mobile Application Developer intern at <a href="https://www.infr4.com.br/"><b>Infr4 Tecnologia</b></a>. This experience motivated me to become a Qt Specialist, and I am currently developing my skills in QML and C++. I am also participating on an amazing mentorship by <a href="https://github.com/marcodotcastro"><b>Marco Castro</b></a> where I am learning all about career growth, management and soft skills for developers.
+I have a Bachelor degree in Information Systems from Ceuma University, and during the course I had several experiences in the technology field, both in academia and industry. I'm currently studying to complete my Master's degree in Computer Science at the Federal University of São Carlos.
+
+Because of my background, I have a great interest in Software development with C++ and Python, and I’m very open to learn other languages too. I used C++, Qt and SQL to develop Mobile apps like <a href="https://github.com/bmeireles/myOdonto"><b>My Odonto</b></a> , and also Automotive systems. With Python, I worked on Machine Learning and EdTech projects. My Master’s thesis, which is a Transformer model for NILM data analysis, is also being developed in Python.
+
+I’m currently working on a mentorship with <a href="https://github.com/marcodotcastro"><b>Marco Castro</b></a> , where the team is building Microservices, with the best practices of Agile methodologies and responsible AI for coding. I’m also taking courses on FastAPI and Azure.
 
  <img align="right" alt="GIF" src="https://github.com/bmeireles/bmeireles/blob/main/girl_coding2.gif?raw=true" width="70%" height="400px" />
 
